@@ -22,7 +22,7 @@ header {
     }
  }   
 main {
-    width: 400px;
+    width: 380px;
     margin: 20px auto;
     img {
         width: 100%;
@@ -40,7 +40,7 @@ main {
     }
 }
 
-@media (min-width:400px)
+@media (min-width:480px)
 {
     body {
         background-color: #666;
